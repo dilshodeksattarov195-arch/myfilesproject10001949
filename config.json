@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfender",
+        "uuid": 11380211,
+        "checksum": "dozv6o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
